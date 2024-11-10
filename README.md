@@ -1,5 +1,5 @@
 # Machine Learning Notebooks (in Portuguese)
-This repository contains various Jupyter notebooks demonstrating machine learning algorithms using Python. While the explanations in the code cells are written in Portuguese, these notebooks cover a wide range of machine learning techniques for both classification and regression tasks, as well as model validation.
+This repository contains a variety of Jupyter notebooks that demonstrate different machine learning algorithms using Python. All code includes step-by-step explanations in Portuguese, covering a range of machine learning techniques for classification, regression, and model validation.
 
 ## Notebook Descriptions:
 - Exemplo_RL.ipynb: Provides a practical example of Linear Regression (RL), showing how the model works for continuous variable prediction.
